@@ -23,6 +23,9 @@ Fear of others seems to be an unnecessary difficulty experienced by people strug
 
 Parents, schools, friends should share knowledge about how to recognize, to accept, and to find a cure for mental issues, from the little scratches to the one that requires a professional. Since jobs will become more mental than physical, it is primordial to accelerate the education of people and company managers.
 
+We should be able to speak about stress, anxiety, depression as we speak about back pain, hangover, and our last visit to the dentist.
+
+
 
 ## FILES:
 
@@ -40,7 +43,7 @@ https://www.kaggle.com/osmihelp/osmi-2020-mental-health-in-tech-survey-results
 https://osmihelp.org
 
 
-LIBRARIES:
+## LIBRARIES:
 
 - pandas==1.1.4
 - numpy==1.19.4
